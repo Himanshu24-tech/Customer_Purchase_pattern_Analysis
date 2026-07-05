@@ -136,7 +136,8 @@ Developed an interactive dashboard to visualize:
 
 ## 📊 Dashboard Preview
 
-*Add screenshots of your Power BI dashboard here.*
+<img width="1366" height="768" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/5c88f78d-b7ca-409e-8c70-5fcc33c3ca8a" />
+
 
 ---
 
